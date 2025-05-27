@@ -13,5 +13,7 @@
             "email": "golovanovsv16071975@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "8.0"
+    }
 }
