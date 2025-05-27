@@ -1,0 +1,17 @@
+{
+    "name": "sergey-golovanov/my_first_package",
+    "description": "Learning create and plugin new package with composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SergeyGolovanov\\MyFirstPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Голованов Сергей",
+            "email": "golovanovsv16071975@yandex.ru"
+        }
+    ],
+    "require": {}
+}
