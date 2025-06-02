@@ -3,7 +3,7 @@
 Преобразует строку в которой все слова начинаются с Заглавной буквы
 
 ## Требования
-- PHP8.0
+- PHP >=4.3.0, PHP5, PHP7, PHP8
 
 ## Установка
 composer require sergey-golovanov/my_first_package
